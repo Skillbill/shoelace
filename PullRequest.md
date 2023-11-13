@@ -4,7 +4,7 @@ This is the easiest way to open a pull request only to this repository
 
 [Click me](https://github.com/Skillbill/shoelace/compare/develop...Skillbill:shoelace:develop)
 
-After the link click, select on the right the branch that yout want to merge on develop. 
+After the link click, select on the right the branch that yout want to merge on develop.
 
 Another way is to modify the link before open it
 
